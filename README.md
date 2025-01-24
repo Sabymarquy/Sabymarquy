@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Sabymarqy👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho com front-end e back-and ( Full-Stack)
 - 🌱 Apaixonada por programação
 - 😄 Pronouns: ela/dela
 
